@@ -1,0 +1,14 @@
+h1{
+    color: darkslategrey;
+    text-decoration: slategrey;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.Songs{
+    font-size: 22px;
+}
+
+#About{
+    font-size: 20px;
+}
