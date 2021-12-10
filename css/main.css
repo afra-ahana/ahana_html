@@ -5,10 +5,32 @@ h1{
     font-size: 40px;
 }
 
-.Songs{
+.Songs a{
     font-size: 22px;
+    text-decoration: none;
 }
 
-#About{
+#About a{
     font-size: 20px;
+    color: midnightblue;
+    text-decoration: none;
+} 
+
+.myclass{
+   color: gray;
+}
+
+.box{
+    margin:30px ;
+    padding: 5px 15px;
+    display: inline-block;
+}
+
+.box:hover{
+    margin:30px ;
+    padding: 5px 15px;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+    background-color: gray;
 }
