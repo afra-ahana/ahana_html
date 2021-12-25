@@ -1,9 +1,8 @@
-
-h1{
-    color: darkslategrey;
-    font-weight: bold;
-    font-size: 37px;
-}
+#About a{
+    font-size: 20px;
+    color: midnightblue;
+    text-decoration: none;
+} 
 
 .box a{
     color: black;
@@ -33,3 +32,12 @@ h1{
     box-shadow: 2px 2px 4px 2px rgba(40, 40, 40, 0.6);
 }
 
+h1{
+    color: darkslategrey;
+    font-weight: bold;
+    font-size: 37px;
+}
+
+.members{
+    font-size: 24px;
+}
